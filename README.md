@@ -1,3 +1,5 @@
+![—Pngtree—holographic iridescent color wrinkled foil_982605](https://github.com/jiyoon-lee/jiyoon-lee/assets/59562141/68352488-55a3-441d-9d1a-086c769ae919)
+
 ### Hi there 👋
 
 **jiyoon-lee/jiyoon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
