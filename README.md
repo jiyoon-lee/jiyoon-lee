@@ -1,7 +1,4 @@
 ![KakaoTalk_20230603_173805707](https://github.com/jiyoon-lee/jiyoon-lee/assets/59562141/74cd32ba-415a-47a9-a015-f6b34d93241a)
-![PlanktonMeatGIF](https://github.com/jiyoon-lee/jiyoon-lee/assets/59562141/cf5897e6-68e3-413f-a7f5-20ad371e0ff5)
-![ColorSlowmoGIF](https://github.com/jiyoon-lee/jiyoon-lee/assets/59562141/4b11a872-f6f3-4c52-b75a-f485da17b528)
-
 
 **jiyoon-lee/jiyoon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
