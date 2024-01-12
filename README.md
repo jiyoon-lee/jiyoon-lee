@@ -2,8 +2,8 @@
 
 <h4 align="left">I am working hard to transition from a frontend developer to a full-stack developer. I have a high level of proficiency in developing JavaScript-based web applications using Vue, React, Node, and Next.js.</h4>
 
-- 👨‍💻 All of my projects are available at [https://tropical-beet-462.notion.site/e924decf00ba405ba1daf66e95531aea?pvs=4](https://tropical-beet-462.notion.site/e924decf00ba405ba1daf66e95531aea?pvs=4)
-- 📝 I regularly write articles on [https://jiyoon-lee.github.io/](https://jiyoon-lee.github.io/)
+- 👨‍💻 All of my projects are available at [portfolio](https://zrr.kr/Wi3K)
+- 📝 I regularly write articles on [blog](https://jiyoon-lee.github.io/)
 - 📫 How to reach me **jiyoon3421@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
