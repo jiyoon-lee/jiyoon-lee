@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyoon-lee&show_icons=true&locale=en&layout=compact" alt="jiyoon-lee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyoon-lee&show_icons=true&locale=en" alt="jiyoon-lee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyoon-lee&" alt="jiyoon-lee" /></p>
