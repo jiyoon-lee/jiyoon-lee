@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋, I'm Jiyoon Lee.</h1>
 
-<h4 align="left">I am working hard to transition from a frontend developer to a full-stack developer. I have a high level of proficiency in developing JavaScript-based web applications using Vue, React, Node, and Next.js.</h4>
+<h4 align="left">I am putting in a lot of effort to make a transition from being a frontend developer to becoming a full-stack developer. I have a strong skill set in developing web applications using JavaScript frameworks such as Vue, React, Node, and Next.js.</h4>
 
 - 👨‍💻 All of my projects are available at [portfolio](https://zrr.kr/Wi3K)
 - 📝 I regularly write articles on [blog](https://jiyoon-lee.github.io/)
