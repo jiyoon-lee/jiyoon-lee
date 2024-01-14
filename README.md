@@ -36,4 +36,4 @@
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiyoon-lee&theme=github" alt="jiyoon-lee" /></p>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiyoon-lee&theme=github" alt="jiyoon-lee" /></p>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiyoon-lee&theme=github" alt="jiyoon-lee" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyoon-lee&theme=github" alt="jiyoon-lee" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyoon-lee&show_icons=true&locale=en&layout=compact" alt="jiyoon-lee" /></p>
